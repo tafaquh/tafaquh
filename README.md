@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/tafaquh"><img src="https://komarev.com/ghpvc/?username=tafaquh&label=Profile%20views&color=0e75b6&style=flat" alt="tafaquh" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/twitter/follow/yourhandle?logo=twitter&style=flat" alt="twitter" /></a>
+  <a href="https://twitter.com/fiddinal"><img src="https://img.shields.io/twitter/follow/yourhandle?logo=twitter&style=flat" alt="twitter" /></a>
 </p>
 
 ---
