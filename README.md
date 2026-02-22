@@ -21,7 +21,7 @@
 
 Backend engineer building **enterprise-grade SaaS platforms** focused on identity, access control, and secure distributed systems.
 
-At **Portier Global**, I contribute to mission-critical backend infrastructure powering policy-driven access across digital and physical environments.
+At **portier Global**, I contribute to mission-critical backend infrastructure powering policy-driven access across digital and physical environments.
 
 I care about:
 - Scalable, secure system design  
@@ -31,7 +31,7 @@ I care about:
 
 ---
 
-## 🔹 PortierX
+## 🔹 portierX
 
 Enterprise SaaS identity infrastructure platform enabling secure, policy-driven access across digital and physical environments.
 
@@ -67,7 +67,7 @@ Also experienced with: Python, Node.js
 
 ## 📌 Selected Work
 
-### 🔹 PortierX  
+### 🔹 portierX  
 Enterprise SaaS identity infrastructure platform.
 
 ### 🔹 [aerr](https://github.com/tafaquh/aerr)  
