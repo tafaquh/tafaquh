@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Tafaquh</h1>
 <p align="center">
-  Backend Engineer • Go / Distributed Systems • Building secure platforms & scalable services
+  Backend Engineer • Distributed Systems • Identity & Security Platforms
 </p>
 
 <p align="center">
@@ -19,23 +19,47 @@
 
 ## 🧠 About Me
 
-I'm a **Backend Engineer** who enjoys building reliable systems—services that are observable, maintainable, and scalable under real-world production constraints.
+I’m a **Backend Engineer** focused on building secure, scalable, and production-grade systems.
 
-- 🔭 Currently building **[portierX](https://portierglobal.com)** — bridging **digital identity** and **physical security** with modern backend architecture  
-- 🧰 Creator of **[aerr](https://github.com/tafaquh/aerr)** — structured, context-rich error handling for **Go**, designed for clarity and debuggability  
-- ⚙️ Strong interest in **microservices**, **distributed systems**, **system design**, and **high-performance backend engineering**  
-- 🧪 Exploring **AI-driven developer tooling**, system automation, and applied ML use cases in product engineering  
-- 📌 I care deeply about **clean APIs**, **data consistency**, **observability**, and **developer experience**
+Currently building **PortierX** at **Portier Global** — a platform that bridges **digital identity and physical access control**, powering secure access infrastructure through modern backend architecture.
+
+I care deeply about:
+
+- Designing systems that scale under real-world constraints  
+- Building secure-by-default platforms  
+- Clean service boundaries & domain-driven design  
+- Observability, debuggability, and operational clarity  
+- Writing code that other engineers enjoy working with  
+
+I’m especially interested in **distributed systems, reliability engineering, system design, and applied AI in developer tooling**.
 
 ---
 
-## 🛠️ Core Engineering Focus
+## 🏗 What I Work On
 
-- **Backend Architecture**: REST/gRPC, event-driven systems, service decomposition, domain boundaries  
-- **Scalability & Reliability**: caching strategies, rate limiting, concurrency, fault tolerance  
-- **Data & Storage**: PostgreSQL modeling, indexing, query tuning, data consistency & trade-offs  
-- **Infrastructure**: containerization, CI/CD, cloud-native deployment, production readiness  
-- **Engineering Practices**: logging/metrics/tracing, testing, performance profiling, code review standards
+### 🔐 Identity & Access Infrastructure
+- Authentication & authorization systems
+- Secure service-to-service communication
+- Access control modeling & policy enforcement
+- Auditability & compliance-ready architecture
+
+### ⚙️ Distributed Backend Systems
+- REST & gRPC services
+- Event-driven architecture
+- Service decomposition & domain boundaries
+- Concurrency & high-performance Go services
+
+### 📦 Data & Reliability
+- PostgreSQL schema design & query optimization
+- Consistency models & transactional integrity
+- Caching strategies & performance tuning
+- Logging, metrics, tracing, and production debugging
+
+### 🚀 Platform & Delivery
+- Containerization & Kubernetes
+- CI/CD pipelines & release workflows
+- Cloud-native deployments (GCP / AWS)
+- Production hardening & operational readiness
 
 ---
 
@@ -45,12 +69,19 @@ I'm a **Backend Engineer** who enjoys building reliable systems—services that 
   <img src="https://skillicons.dev/icons?i=go,python,nodejs,postgres,mysql,redis,mongodb,docker,kubernetes,gcp,aws,linux,git,githubactions" />
 </p>
 
+Core language: **Go**  
+Strong secondary experience: **Python & Node.js**
+
 ---
 
-## 📌 Featured Work
+## 📌 Selected Work
 
-- 🔹 **[PortierX](https://portierglobal.com)** — Secure identity + access platform  
-- 🔹 **[aerr](https://github.com/tafaquh/aerr)** — Go error handling with structured context for better debugging and observability  
+### 🔹 PortierX  
+Enterprise SaaS identity infrastructure platform enabling secure, policy-driven access across digital and physical environments.  
+Architected for multi-tenancy, compliance readiness, observability, and high-throughput distributed services serving enterprise-scale customers.
+
+### 🔹 [aerr](https://github.com/tafaquh/aerr)  
+Structured, context-rich error handling library for Go — designed to improve observability and debugging clarity in production systems.
 
 ---
 
