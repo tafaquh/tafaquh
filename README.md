@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Tafaquh</h1>
 <p align="center">
-  Backend Engineer • Distributed Systems • Identity & Security Platforms
+  Backend Engineer • Enterprise SaaS • Distributed Systems • Identity Infrastructure
 </p>
 
 <p align="center">
@@ -19,47 +19,38 @@
 
 ## 🧠 About Me
 
-I’m a **Backend Engineer** focused on building secure, scalable, and production-grade systems.
+Backend engineer building **enterprise-grade SaaS platforms** focused on identity, access control, and secure distributed systems.
 
-Currently building **PortierX** at **Portier Global** — a platform that bridges **digital identity and physical access control**, powering secure access infrastructure through modern backend architecture.
+At **Portier Global**, I contribute to mission-critical backend infrastructure powering policy-driven access across digital and physical environments.
 
-I care deeply about:
-
-- Designing systems that scale under real-world constraints  
-- Building secure-by-default platforms  
-- Clean service boundaries & domain-driven design  
-- Observability, debuggability, and operational clarity  
-- Writing code that other engineers enjoy working with  
-
-I’m especially interested in **distributed systems, reliability engineering, system design, and applied AI in developer tooling**.
+I care about:
+- Scalable, secure system design  
+- Clear domain boundaries & clean APIs  
+- Observability & operational excellence  
+- Performance under real production workloads  
 
 ---
 
-## 🏗 What I Work On
+## 🔹 PortierX
 
-### 🔐 Identity & Access Infrastructure
-- Authentication & authorization systems
-- Secure service-to-service communication
-- Access control modeling & policy enforcement
-- Auditability & compliance-ready architecture
+Enterprise SaaS identity infrastructure platform enabling secure, policy-driven access across digital and physical environments.
 
-### ⚙️ Distributed Backend Systems
-- REST & gRPC services
-- Event-driven architecture
-- Service decomposition & domain boundaries
-- Concurrency & high-performance Go services
+Architected for:
+- Multi-tenancy  
+- Compliance & audit readiness  
+- High-throughput distributed services  
+- Production-grade observability  
 
-### 📦 Data & Reliability
-- PostgreSQL schema design & query optimization
-- Consistency models & transactional integrity
-- Caching strategies & performance tuning
-- Logging, metrics, tracing, and production debugging
+---
 
-### 🚀 Platform & Delivery
-- Containerization & Kubernetes
-- CI/CD pipelines & release workflows
-- Cloud-native deployments (GCP / AWS)
-- Production hardening & operational readiness
+## 🛠 Engineering Focus
+
+- Distributed backend systems (REST / gRPC, event-driven services)  
+- Identity & authorization models (RBAC, policy enforcement)  
+- Relational & distributed data modeling  
+- Concurrency, caching & performance tuning  
+- Cloud-native infrastructure (Docker, Kubernetes, GCP / AWS)  
+- CI/CD & production hardening  
 
 ---
 
@@ -69,32 +60,22 @@ I’m especially interested in **distributed systems, reliability engineering, s
   <img src="https://skillicons.dev/icons?i=go,python,nodejs,postgres,mysql,redis,mongodb,docker,kubernetes,gcp,aws,linux,git,githubactions" />
 </p>
 
-Core language: **Go**  
-Strong secondary experience: **Python & Node.js**
+Primary: **Go**  
+Also experienced with: Python, Node.js  
 
 ---
 
 ## 📌 Selected Work
 
 ### 🔹 PortierX  
-Enterprise SaaS identity infrastructure platform enabling secure, policy-driven access across digital and physical environments.  
-Architected for multi-tenancy, compliance readiness, observability, and high-throughput distributed services serving enterprise-scale customers.
+Enterprise SaaS identity infrastructure platform.
 
 ### 🔹 [aerr](https://github.com/tafaquh/aerr)  
-Structured, context-rich error handling library for Go — designed to improve observability and debugging clarity in production systems.
+Structured error handling library for Go focused on production observability and debugging clarity.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tafaquh&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafaquh&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/tafaquh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
