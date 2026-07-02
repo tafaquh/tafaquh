@@ -25,11 +25,11 @@
 
 ## 🧠 About
 
-Engineering Lead at [portier Global](https://portier.com)  running distributed engineering across Europe, Australia, Indonesia, and India, and overseeing **portierX**: enterprise multi-tenant SaaS for Physical Identity & Access Management (PIAM) and Master Key System Management.
+Engineering Lead at [portier Global](https://portierglobal.com)  running distributed engineering across Europe, Australia, Indonesia, and India, and overseeing **portierX**: enterprise multi-tenant SaaS for Physical Identity & Access Management (PIAM) and Master Key System Management.
 
 Right now I'm focused on making the org **AI-native**: guiding the team through an agentic SDLC, light spec up front, rigor in the platform, collaboration over delegation. Agents do the bulk of the build; humans own the why. Before leadership I scaled high-traffic backends across travel-tech (100M+ users) and edtech (22M+ users).
 
-- 🔭 Currently: Engineering Lead @ [portier](https://portier.com) — wiring an agentic SDLC into how the team ships
+- 🔭 Currently: Engineering Lead @ [portier](https://portierglobal.com) — wiring an agentic SDLC into how the team ships
 - 🛠 Primary language: **Go** — also Rust & TypeScript these days
 - 📍 Based in Indonesia, working remotely across global timezones
 
