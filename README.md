@@ -35,18 +35,6 @@ Right now I'm focused on making the org **AI-native**: guiding the team through 
 
 ---
 
-## 🤖 AI-Native Agentic SDLC
-
-Setting up how the team ships with agents: strong SDLC foundations first, gates in the middle, then the agentic layer on top. Agents  plan, build, self-review, and verify. Light spec up front, rigor in the platform, every rule earned by measurement instead of taste.
-
-**Foundations make agents safe; agents make the team fast. Humans own intent and guardrails.**
-
-- **Collaboration over delegation**: don't ship what you can't explain
-- **Explainability is the gate**: show it *and* say why it works
-- **Measure, then standardise**: keep what earns its place, drop the rest
-
----
-
 ## 🚧 Building
 
 | Project | What | Status |
