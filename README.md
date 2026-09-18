@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+%F0%9F%91%8B%2C+I%27m+Taf;Engineering+Lead+%40+portier;AI-Native+Agentic+SDLC;Go+%C2%B7+Rust+%C2%B7+TypeScript&center=true&width=500&height=50&font=Fira+Code&pause=1000" alt="Taf" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+%F0%9F%91%8B%2C+I%27m+Taf;Engineering+Lead;AI-Native+Agentic+SDLC;Go+%C2%B7+Rust+%C2%B7+TypeScript&center=true&width=500&height=50&font=Fira+Code&pause=1000" alt="Taf" />
 </h1>
 
 <p align="center">
-  Engineering Lead @ portier • AI-Native Agentic SDLC • Identity & Access Infrastructure
+  Engineering Lead • AI-Native Agentic SDLC • Identity & Access Infrastructure
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 
 ## 🧠 About
 
-Engineering Lead at [portier Global](https://portierglobal.com)  running distributed engineering across Europe, Australia, Indonesia, and India, and overseeing **portierX**: enterprise multi-tenant SaaS for Physical Identity & Access Management (PIAM) and Master Key System Management.
+Engineering Lead running distributed engineering across Europe, Australia, Indonesia, and India, working on enterprise multi-tenant SaaS for Physical Identity & Access Management (PIAM) and Master Key System Management.
 
-Right now I'm focused on making the org **AI-native**: guiding the team through an agentic SDLC, light spec up front, rigor in the platform, collaboration over delegation. Agents do the bulk of the build; humans own the why. Before leadership I scaled high-traffic backends across travel-tech (100M+ users) and edtech (22M+ users).
+Right now I'm focused on making the org **AI-native**: guiding the team through an agentic SDLC, light spec up front, rigor in the platform, collaboration over delegation. Agents do the bulk of the build; humans own the why. Before leadership I spent years scaling high-traffic consumer backends serving 100M+ users.
 
-- 🔭 Currently: Engineering Lead @ [portier](https://portierglobal.com) — wiring an agentic SDLC into how the team ships
+- 🔭 Currently: wiring an agentic SDLC into how a distributed team ships
 - 🛠 Primary language: **Go** — also Rust & TypeScript these days
 - 📍 Based in Indonesia, working remotely across global timezones
 
@@ -39,10 +39,11 @@ Right now I'm focused on making the org **AI-native**: guiding the team through 
 
 | Project | What | Status |
 | --- | --- | --- |
-| portierX | Enterprise PIAM & master-key management SaaS | production |
 | [aerr](https://github.com/tafaquh/aerr) | Structured errors for Go, built for observability | v1 shipped |
 | Wisp | Lightweight privacy-focused browser — Tauri 2 + Rust | in the lab |
 | Breve | OpenAPI-first API tool — Rust + Svelte | in the lab |
+
+Day job: enterprise PIAM & master-key management SaaS, in production.
 
 ---
 
