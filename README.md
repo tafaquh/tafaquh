@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Engineering Lead • AI-Native Agentic SDLC • Identity & Access Infrastructure
+  Engineering Lead • AI-Native Agentic SDLC • Distributed Backend Systems
 </p>
 
 <p align="center">
@@ -25,13 +25,13 @@
 
 ## 🧠 About
 
-Engineering Lead running distributed engineering across Europe, Australia, Indonesia, and India, working on enterprise multi-tenant SaaS for Physical Identity & Access Management (PIAM) and Master Key System Management.
+Engineering Lead working on distributed backend systems and enterprise SaaS platforms, leading remote-first teams across multiple timezones.
 
-Right now I'm focused on making the org **AI-native**: guiding the team through an agentic SDLC, light spec up front, rigor in the platform, collaboration over delegation. Agents do the bulk of the build; humans own the why. Before leadership I spent years scaling high-traffic consumer backends serving 100M+ users.
+Right now I'm focused on **AI-native engineering**: guiding teams through an agentic SDLC, light spec up front, rigor in the platform, collaboration over delegation. Agents do the bulk of the build; humans own the why. Before leadership I spent years scaling high-traffic consumer backends serving 100M+ users.
 
-- 🔭 Currently: wiring an agentic SDLC into how a distributed team ships
+- 🔭 Currently: wiring an agentic SDLC into how teams ship
 - 🛠 Primary language: **Go** — also Rust & TypeScript these days
-- 📍 Based in Indonesia, working remotely across global timezones
+- 📍 Based in Indonesia, working remotely
 
 ---
 
@@ -42,8 +42,6 @@ Right now I'm focused on making the org **AI-native**: guiding the team through 
 | [aerr](https://github.com/tafaquh/aerr) | Structured errors for Go, built for observability | v1 shipped |
 | Wisp | Lightweight privacy-focused browser — Tauri 2 + Rust | in the lab |
 | Breve | OpenAPI-first API tool — Rust + Svelte | in the lab |
-
-Day job: enterprise PIAM & master-key management SaaS, in production.
 
 ---
 
