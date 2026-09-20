@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+%F0%9F%91%8B%2C+I%27m+Taf;Engineering+Lead;AI-Native+Agentic+SDLC;Go+%C2%B7+Rust+%C2%B7+TypeScript&center=true&width=500&height=50&font=Fira+Code&pause=1000" alt="Taf" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+%F0%9F%91%8B%2C+I%27m+Taf;Systems%2C+and+the+teams+behind+them;AI-Native+Agentic+SDLC;Go+%C2%B7+Rust+%C2%B7+TypeScript&center=true&width=500&height=50&font=Fira+Code&pause=1000" alt="Taf" />
 </h1>
 
 <p align="center">
-  Engineering Lead • AI-Native Agentic SDLC • Distributed Backend Systems
+  Distributed Systems • AI-Native Agentic SDLC • Go · Rust · TypeScript
 </p>
 
 <p align="center">
@@ -25,13 +25,14 @@
 
 ## 🧠 About
 
-Engineering Lead working on distributed backend systems and enterprise SaaS platforms, leading remote-first teams across multiple timezones.
+I build distributed backend systems, and spend the other half of my time with the people building them. Mostly Go, with Rust and TypeScript where they earn their place.
 
-Right now I'm focused on **AI-native engineering**: guiding teams through an agentic SDLC, light spec up front, rigor in the platform, collaboration over delegation. Agents do the bulk of the build; humans own the why. Before leadership I spent years scaling high-traffic consumer backends serving 100M+ users.
+Right now I'm focused on **AI-native engineering**: an agentic SDLC where light spec goes in up front and rigor lives in the platform. Agents do the bulk of the build; humans own the why. Before that, years of scaling high-traffic consumer backends past 100M+ users.
 
 - 🔭 Currently: wiring an agentic SDLC into how teams ship
-- 🛠 Primary language: **Go** — also Rust & TypeScript these days
-- 📍 Based in Indonesia, working remotely
+- 🛠 Primary language: **Go** — with Rust & TypeScript alongside
+- 🧪 Nights: a shelf of small tools, most of them Go or Rust
+- 📍 Indonesia, remote
 
 ---
 
@@ -40,19 +41,23 @@ Right now I'm focused on **AI-native engineering**: guiding teams through an age
 | Project | What | Status |
 | --- | --- | --- |
 | [aerr](https://github.com/tafaquh/aerr) | Structured errors for Go, built for observability | v1 shipped |
-| Wisp | Lightweight privacy-focused browser — Tauri 2 + Rust | in the lab |
-| Breve | OpenAPI-first API tool — Rust + Svelte | in the lab |
+| timbang | LLM evaluation suite — which model to use and why, hosted and local behind one interface | in the lab |
+| drawspace | Collaborative whiteboard with Drive-style sharing — tldraw + TypeScript | in the lab |
+| lontar | Scenario-first wiki engine — Go | in the lab |
+| wisp | Lightweight privacy-focused browser — Tauri 2 + Rust | in the lab |
+| breve | OpenAPI-first API tool — Rust + Svelte | in the lab |
+| pesse | Daily money-care app — TypeScript | in the lab |
 
 ---
 
 ## 🎯 Focus
 
-- AI-Native Agentic SDLC,  collaboration over delegation, rigor in the platform
+- AI-native agentic SDLC — collaboration over delegation, rigor in the platform
 - Distributed backend systems (Go, gRPC, event-driven)
-- Identity & authorization (SSO, SCIM, RBAC, policy engines)
-- Enterprise integrations at scale
+- Auth & authorization (SSO, RBAC, policy engines)
+- Developer tooling and platform ergonomics
 - Observability (metrics, tracing, structured logging)
-- Leading distributed engineering teams
+- Growing teams and the systems they own
 
 ---
 
