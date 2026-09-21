@@ -30,7 +30,7 @@ I build distributed backend systems, and spend the other half of my time with th
 Right now I'm focused on **AI-native engineering**: an agentic SDLC where light spec goes in up front and rigor lives in the platform. Agents do the bulk of the build; humans own the why. Before that, years of scaling high-traffic consumer backends past 100M+ users.
 
 - 🔭 Currently: wiring an agentic SDLC into how teams ship
-- 🛠 Primary language: **Go** — with Rust & TypeScript alongside
+- 🛠 Primary language: **Go**, with Rust & TypeScript alongside
 - 🧪 Nights: a shelf of small tools, most of them Go or Rust
 - 📍 Indonesia, remote
 
@@ -41,18 +41,18 @@ Right now I'm focused on **AI-native engineering**: an agentic SDLC where light 
 | Project | What | Status |
 | --- | --- | --- |
 | [aerr](https://github.com/tafaquh/aerr) | Structured errors for Go, built for observability | v1 shipped |
-| timbang | LLM evaluation suite — which model to use and why, hosted and local behind one interface | in the lab |
-| drawspace | Collaborative whiteboard with Drive-style sharing — tldraw + TypeScript | in the lab |
-| lontar | Scenario-first wiki engine — Go | in the lab |
-| wisp | Lightweight privacy-focused browser — Tauri 2 + Rust | in the lab |
-| breve | OpenAPI-first API tool — Rust + Svelte | in the lab |
-| pesse | Daily money-care app — TypeScript | in the lab |
+| timbang | LLM evaluation suite. Which model to use and why, hosted and local behind one interface | in the lab |
+| drawspace | Collaborative whiteboard with Drive-style sharing. tldraw + TypeScript | in the lab |
+| lontar | Scenario-first wiki engine, written in Go | in the lab |
+| wisp | Lightweight privacy-focused browser. Tauri 2 + Rust | in the lab |
+| breve | OpenAPI-first API tool. Rust + Svelte | in the lab |
+| pesse | Daily money-care app, built in TypeScript | in the lab |
 
 ---
 
 ## 🎯 Focus
 
-- AI-native agentic SDLC — collaboration over delegation, rigor in the platform
+- AI-native agentic SDLC: collaboration over delegation, rigor in the platform
 - Distributed backend systems (Go, gRPC, event-driven)
 - Auth & authorization (SSO, RBAC, policy engines)
 - Developer tooling and platform ergonomics
@@ -67,7 +67,7 @@ Right now I'm focused on **AI-native engineering**: an agentic SDLC where light 
   <img src="https://skillicons.dev/icons?i=go,rust,ts,svelte,python,nodejs,postgres,mysql,redis,mongodb,kafka,docker,kubernetes,gcp,azure,terraform,grafana,githubactions&perline=9" alt="Stack" />
 </p>
 
-Primary: **Go** — plus Rust & TypeScript for tooling and clients.
+Primary: **Go**, plus Rust & TypeScript for tooling and clients.
 
 ---
 
