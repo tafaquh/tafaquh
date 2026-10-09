@@ -36,15 +36,6 @@ Right now I'm focused on **AI-native engineering**: an agentic SDLC where light 
 
 ---
 
-## 🚧 Building
-
-| Project | What | Status |
-| --- | --- | --- |
-| [aerr](https://github.com/tafaquh/aerr) | Structured errors for Go, built for observability | v1 shipped |
-| timbang | LLM evaluation suite. Which model to use and why, hosted and local behind one interface | in the lab |
-
----
-
 ## 🎯 Focus
 
 - AI-native agentic SDLC: collaboration over delegation, rigor in the platform
